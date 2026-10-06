@@ -1,0 +1,6 @@
+{
+  "name": "American Dental Clinic",
+  "description": "Modern, compassionate dental care for you and your family in Badshahpur, Sector 68, Gurugram. Led by Dr. Sumit Pahwa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
